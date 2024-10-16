@@ -6,7 +6,7 @@ site_url: https://github.com/MobileLLM/RuyiAgentDoc
 copyright: Copyright &copy; 2024 AIR-AIoT-RuyiAgent Team. All rights reserved.
 
 repo_name: RuyiAgent
-repo_url: https://github.com/MobileLLM/RuyiAgentDoc
+repo_url: https://github.com/MobileLLM/RuyiAgent
 
 nav:
   - Home: index.md
