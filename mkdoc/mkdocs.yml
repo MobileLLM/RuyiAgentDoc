@@ -1,9 +1,9 @@
 site_name: RuyiAgent
 site_description: Build your own agents to help anything!
 site_author: RuyiAgent Team
-site_url: https://github.com/MobileLLM/RuyiAgentDoc
+site_url: https://github.com/MobileLLM/RuyiAgent
 
-copyright: Copyright &copy; 2024 RuyiAgent Team. All rights reserved.
+copyright: Copyright &copy; 2024 AIR-AIoT-RuyiAgent Team. All rights reserved.
 
 repo_name: RuyiAgent
 repo_url: https://github.com/MobileLLM/RuyiAgent
@@ -13,6 +13,13 @@ nav:
   - Overview: overview/whats_ruyiagent.md
   - API Doc:
       - Main API: system_developer/api_document.md
+      - Interface: 
+        - RuyiInterface: system_developer/interfaces/ruyi_interface.md
+        - Data_Interface: system_developer/interfaces/data_interface.md
+      - ruyi.data:
+        - LiveTable: system_developer/ruyi.data/live_table.md
+        - Text: system_developer/ruyi.data/text.md
+        - Image: system_developer/ruyi.data/image.md
 
 
 extra:
@@ -28,6 +35,7 @@ extra:
 
 plugins:
   - search: # 搜索插件
+  - mkdocstrings:
   - minify: # 压缩插件
       minify_html: true
   - i18n: # 多语言插件
@@ -47,6 +55,7 @@ plugins:
           nav_translations: # 导航栏翻译，不可以有缩进
             Home: 首页
             API Doc: API文档
+            Overview: 概览
 
 
 theme:
@@ -54,15 +63,21 @@ theme:
   custom_dir: overrides
   language: en
   features:
-    - navigation.instant
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
+    - announce.dismiss
     - navigation.tabs
-    - navigation.footer
-    - navigation.tabs.sticky
-    - toc.integrate
-    - search.suggest
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.preview
+    - navigation.instant.progress
     - navigation.path
+    - navigation.sections
     - navigation.top
-    - search.highlight
+    - navigation.tracking
+    - search.suggest
+    - toc.follow
 
   palette:
 

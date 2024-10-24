@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/overview/whats_ruyiagent/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/overview/whats_ruyiagent/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/overview/whats_ruyiagent/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/system_developer/api_document/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/system_developer/api_document/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/system_developer/api_document/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/system_developer/interfaces/data_interface/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/system_developer/interfaces/data_interface/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/system_developer/interfaces/data_interface/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/system_developer/interfaces/ruyi_interface/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/system_developer/interfaces/ruyi_interface/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/system_developer/interfaces/ruyi_interface/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/system_developer/ruyi.data/image/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/system_developer/ruyi.data/image/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/system_developer/ruyi.data/image/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/system_developer/ruyi.data/live_table/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/system_developer/ruyi.data/live_table/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/system_developer/ruyi.data/live_table/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/system_developer/ruyi.data/text/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/system_developer/ruyi.data/text/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/system_developer/ruyi.data/text/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/zh/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/zh/overview/whats_ruyiagent/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/overview/whats_ruyiagent/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/overview/whats_ruyiagent/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/zh/system_developer/api_document/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/system_developer/api_document/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/system_developer/api_document/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/zh/system_developer/interfaces/data_interface/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/system_developer/interfaces/data_interface/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/system_developer/interfaces/data_interface/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/zh/system_developer/interfaces/ruyi_interface/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/system_developer/interfaces/ruyi_interface/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/system_developer/interfaces/ruyi_interface/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/zh/system_developer/ruyi.data/image/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/system_developer/ruyi.data/image/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/system_developer/ruyi.data/image/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/zh/system_developer/ruyi.data/live_table/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/system_developer/ruyi.data/live_table/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/system_developer/ruyi.data/live_table/"/>
+    </url>
+    <url>
+        <loc>https://github.com/MobileLLM/RuyiAgent/zh/system_developer/ruyi.data/text/</loc>
+        <lastmod>2024-10-24</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://github.com/MobileLLM/RuyiAgent/zh/system_developer/ruyi.data/text/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://github.com/MobileLLM/RuyiAgent/system_developer/ruyi.data/text/"/>
+    </url>
+</urlset>

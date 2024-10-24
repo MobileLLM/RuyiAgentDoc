@@ -1,46 +1,53 @@
-# Main API
+# 主要API
 
-Here is a brief introduction to the main APIs of the initial framework:
+此处简单介绍初版框架的主要API：
 
 ```python
+
 # 0. agent
-# Each device corresponds to an agent instance, which operates in a single thread through a message queue. 
-# All class instances of the APIs are maintained as member variables.
-RuyiAgent.__init__(AgentConfig)  # Instantiate the Agent and all its member variables based on the config and start it
-RuyiAgent.serve()  # Start message queue polling
-RuyiAgent.stop()  # Stop message queue polling and halt all API instances in the member variables
-RuyiAgent.log(message, tag="INFO", reply_msg=None)  # Log messages
+# 每个设备对应一个agent实例，依靠消息队列单线程工作，成员变量中维护所有 API 的类实例
+RuyiAgent.__init__(AgentConfig) # 根据 config 实例化 Agent 及其所有成员变量并启动
+RuyiAgent.serve()  # 启动消息队列轮询
+RuyiAgent.stop()  # 停止消息队列轮询并停止所有成员变量的 API 实例
+RuyiAgent.log(message, tag="INFO", reply_msg=None)  # 日志记录
 
 # 1. task
-RuyiTask.__init__()  # Configure properties like name, description, status, permissions, etc.
-RuyiTask.main()  # The main function of the task, implementing specific functionality
-
-RuyiAgent.task.execute_task(taskCls)  # Execute a task
+RuyiTask
 
 # 2. device
-RuyiDevice.take_picture()  # Take a picture
-RuyiDevice.sms(phone_num, msg)  # Send an SMS
+RuyiDevice.take_picture()  # 拍照
+RuyiDevice.sms(phone_num, msg)  # 发送短信
 
-RuyiDevice.app.start(app_name)  # Start an application
-RuyiDevice.app.kill(app_name)  # Close an application
+RuyiDevice.app.start(app_name)  # 启动应用
+RuyiDevice.app.kill(app_name)  # 关闭应用
 
 # 3. ui
-RuyiUI.root() -> UI_View  # Get the root UI node
-RuyiUI.back()  # Go back to the previous UI page
+RuyiUI.root() -> UI_View    # 获取 UI 根节点
+RuyiUI.back()    # 返回上一级 UI 页面
 
-RuyiView.root -> UI_View  # Get the root node of the current UI view
-RuyiView.locate_view(description)  # Get a UI node based on the description
-RuyiView.iterate_views(description, limit=-1)  # Get multiple UI nodes based on the description
-RuyiView.wait_view(description, timeout=10)  # Wait for a UI node to appear
-# Also available: .content, .image, .snapshot, .click, .input, .scroll_up
+RuyiView.root -> UI_View    # 获取当前 UI 节点的根节点
+RuyiView.locate_view(description)    # 根据描述获取 UI 节点
+RuyiView.iterate_views(description, limit=-1)    # 根据描述获取多个 UI 节点
+RuyiView.wait_view(description, timeout=10)    # 等待 UI 节点出现
+# 还有 .contet .image .snapshot .click .input .scroll_up
 
 RuyiLocator
 
-# 4. fm
-RuyiModel.__call__(*args, returns)  # Call a model
+# 4. 
 
-# 5. data
-RuyiLiveTable.add_row(row_data)  # Add a row of data
 
-# Maybe a stream API here
+# 1. data 
+
+# 2. device
+
+# 3. fm
+
+# 4. task
+
+# 5. tools
+
+# 6. ui
+
+# 7. agent
+
 ```

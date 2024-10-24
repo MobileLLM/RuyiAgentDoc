@@ -11,6 +11,7 @@ pip install mike
 pip install mkdocs-rss-plugin
 pip install mkdocs-minify-plugin
 pip install mkdocs-static-i18n
+pip install mkdocstrings-python
 ```
 
 ## Commands for MkDocs

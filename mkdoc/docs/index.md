@@ -36,5 +36,5 @@ This documentation is intended for four main audiences:
 - 2024.10: The RuyiAgent project officially launched.
 
 ## Copyright Notice
-- This work is launched by the RuyiAgent team.
+- This work is launched by the RuyiAgent project team of the AIoT team at the Institute for AI Industry Research, Tsinghua University.
 - More detailed citation formats will be released in the future.
